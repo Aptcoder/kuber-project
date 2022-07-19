@@ -1,0 +1,7 @@
+error: failed to create deployment: deployments.apps "kuber-project" already exists
+NAME                           READY   STATUS    RESTARTS   AGE
+kuber-project-65c9cf69-kzq6k   1/1     Running   0          147m
+POD wih name kuber-project-65c9cf69-kzq6k created
+Forwarding from 0.0.0.0:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000
